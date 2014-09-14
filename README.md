@@ -1,7 +1,7 @@
 HighwayNoise
 =====
 
-Instresting area:
+Make noise together:
 
 - algorithmic composition
 
@@ -9,7 +9,7 @@ Instresting area:
 
 - music effect
 
-- music programming
+- music/audio programming
 
 - signal processing
 
